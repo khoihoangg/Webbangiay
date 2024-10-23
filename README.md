@@ -1,5 +1,5 @@
 # Nhóm
-# Chủ đề: Giày
+# Chủ đề: Web bán giày
 Tên các thành viên:
 1. Nguyễn Đức Huy - 3123411118
 2. Hồ Hoàng Khôi - 3123411163
